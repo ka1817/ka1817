@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ka1817&label=Profile%20views&color=0e75b6&style=flat" alt="ka1817" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ka1817" alt="ka1817" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [https://github.com/ka1817](https://github.com/ka1817)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/pranav-reddy-katta-89929b281/recent-activity/articles/]([https://www.linkedin.com/in/pranav-reddy-katta-89929b281/recent-activity/articles/](https://www.linkedin.com/in/pranav-reddy-katta/recent-activity/articles/))
+- 📝 I regularly write articles on [https://www.linkedin.com/in/pranav-reddy-katta/recent-activity/articles/](https://www.linkedin.com/in/pranav-reddy-katta/recent-activity/articles/)
 
 - 📫 How to reach me **kattapranavreddy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/[https://www.linkedin.com/in/pranav-reddy-katta-89929b281/](https://www.linkedin.com/in/pranav-reddy-katta/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranav-reddy-katta-89929b281/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pranav-reddy-katta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranav-reddy-katta/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,4 +22,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ka1817&show_icons=true&locale=en&layout=compact" alt="ka1817" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ka1817&" alt="ka1817" /></p>
+
 
