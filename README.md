@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ka1817&label=Profile%20views&color=0e75b6&style=flat" alt="ka1817" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ka1817" alt="ka1817" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/ka1817](https://github.com/ka1817)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/pranav-reddy-katta/recent-activity/articles/](https://www.linkedin.com/in/pranav-reddy-katta/recent-activity/articles/)
@@ -22,5 +20,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ka1817&show_icons=true&locale=en&layout=compact" alt="ka1817" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ka1817&" alt="ka1817" /></p>
+
 
 
