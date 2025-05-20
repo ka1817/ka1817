@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Katta Sai Pranav Reddy</h1>
-<h2 align="center">I focus on uncovering patterns and trends in data to extract valuable insights, applying machine learning algorithms to solve real-world problems, and deploying end-to-end AI systems. My work bridges the gap between machine learning and software engineering — transforming models into robust, scalable, and production-ready solutions. Passionate about delivering intelligent systems that create measurable impact, I’m driven by the challenge of making AI work in the wild.</h2>
+<h4 align="center">I focus on uncovering patterns and trends in data to extract valuable insights, applying machine learning algorithms to solve real-world problems, and deploying end-to-end AI systems. My work bridges the gap between machine learning and software engineering — transforming models into robust, scalable, and production-ready solutions. Passionate about delivering intelligent systems that create measurable impact, I’m driven by the challenge of making AI work in the wild.</h4>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ka1817](https://github.com/ka1817)
 
