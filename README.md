@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Katta Sai Pranav Reddy</h1>
-<h3 align="center">Artificial Intelligence & Machine Learning Engineer | Passionate About Advancing AI Innovations</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ka1817&label=Profile%20views&color=0e75b6&style=flat" alt="ka1817" /> </p>
+<h3 align="center">I focus on uncovering patterns and trends in data to extract valuable insights, applying machine learning algorithms to solve real-world problems, and deploying end-to-end AI systems. My work bridges the gap between machine learning and software engineering — transforming models into robust, scalable, and production-ready solutions. Passionate about delivering intelligent systems that create measurable impact, I’m driven by the challenge of making AI work in the wild.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ka1817](https://github.com/ka1817)
 
@@ -22,6 +20,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ka1817&show_icons=true&locale=en&layout=compact" alt="ka1817" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ka1817&" alt="ka1817" /></p>
+
 
 
 
